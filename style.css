@@ -1,0 +1,31 @@
+body {
+    background-image: url("https://interactive-examples.mdn.mozilla.net/media/examples/firefox-logo.svg");
+    background-color: pink;
+}
+
+* {
+    color: limegreen;
+}
+
+p {
+    color: aqua;
+}
+
+section {
+    display: flex;
+    justify-content: space-between;
+}
+
+footer {
+    font-size: 80px;
+    text-align: center;
+}
+
+a {
+    font-size: 90px;
+    margin: 80px;
+}
+
+.get-lost {
+    font-size: 100px;
+}
